@@ -1,8 +1,9 @@
 # Process Documentation
-> Project Title:
+
+## Project Title:
 Automation of Number System Conversions
 
-> Group Members:
+# Group Members:
 Member 1:CT101/G/21750/24
 Member 2:
 Member 3:
