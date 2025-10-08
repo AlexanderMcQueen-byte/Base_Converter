@@ -6,8 +6,8 @@ Automation of Number System Conversions
 # Group Members:
 * Member 1:CT101/G/21750/24
 * Member 2:CT101/G/22552/24
-* Member 3:
-* Member 4:
+* Member 3:CT101/G/21969/24
+* Member 4:CT101/G/23208/24
 # Objective:
 Automate conversion of numbers between different bases (2–36) using a graphical user interface.
 
