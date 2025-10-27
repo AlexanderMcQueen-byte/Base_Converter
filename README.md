@@ -35,4 +35,6 @@ A simple Kivy-based Python application to convert numbers between bases 2 and 36
 - Member 1:Isack
 - Member 2:Chemei
 - Member 3:peter
-- Member 4:Ian 
+- Member 4:Ian
+- Mmber 5:Gideon
+
